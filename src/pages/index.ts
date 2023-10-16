@@ -1,3 +1,3 @@
-export * from './NotFound';
+export * from "./Register";
 export * from './Dashboard';
-export * from './TodosList';
+export * from "./Login";

@@ -1,5 +1,5 @@
 import React from 'react';
 
-export const DashboardPage: React.FC = () => {
+export const RegisterPage: React.FC = () => {
   return <div></div>;
 };
