@@ -7,3 +7,6 @@ export * from './Tab';
 export * from './Menu';
 export * from './Dashboard';
 export * from './Chatroom';
+export * from './Profile';
+export * from './MyPhotos';
+export * from './MyFriends';
